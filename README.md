@@ -25,3 +25,16 @@ Features
 2. Open the project in Visual Studio.
 3. Build the project by clicking on Build > Build Solution.
 4. Run the project by clicking on Debug > Start Debugging.
+
+## Usage
+
+The system is designed to be user-friendly, making it easy for restaurant owners and staff to use. Simply log in to the system using the provided credentials, and you will be able to access all of the system's features and functions.
+
+## Contributing
+If you would like to contribute to this project, please feel free to submit a pull request.
+
+## Support
+If you need help with the system, please feel free to open an issue on the repository.
+
+## License
+The code for this project is released under the MIT License.
