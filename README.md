@@ -30,6 +30,22 @@ Features
 
 The system is designed to be user-friendly, making it easy for restaurant owners and staff to use. Simply log in to the system using the provided credentials, and you will be able to access all of the system's features and functions.
 
+### 1. Login Page
+
+![Login Page](https://github.com/mrinalprakash45/Restaurant-Management-System/blob/main/img/log.PNG)
+
+### 2. Registration Page
+
+![Registration Page](https://github.com/mrinalprakash45/Restaurant-Management-System/blob/main/img/registration.PNG)
+
+### 3. Home Page
+
+![Home Page](https://github.com/mrinalprakash45/Restaurant-Management-System/blob/main/img/home.PNG)
+
+### 4. Menu List
+
+![Menu](https://github.com/mrinalprakash45/Restaurant-Management-System/blob/main/img/Menu%20List.PNG)
+
 ## Contributing
 If you would like to contribute to this project, please feel free to submit a pull request.
 
